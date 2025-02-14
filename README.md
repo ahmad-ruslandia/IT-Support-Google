@@ -3,4 +3,4 @@
 </p>
 
 [![certificate ui][product-ui]](https://example.com)
-[product-ui]: certificate.png
+[product-ui]: certificate.jpg
