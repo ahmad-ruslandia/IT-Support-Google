@@ -3,6 +3,7 @@
 </p>
 
 [![certificate ui][product-ui]](https://example.com)
+
 [product-ui]: certificate.jpg
 
 # IT Support Guide
